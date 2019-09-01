@@ -1,0 +1,14 @@
+{
+  "name": "mjpeg-video-stream",
+  "version": "1.0.0",
+  "description": "mjpeg video stream",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "givehug",
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "3.2.5"
+  }
+}
